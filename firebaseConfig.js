@@ -2,7 +2,7 @@
 import { initializeApp } from "firebase/app";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyACPBrw5ie8FgUNQ3qBYyeL6t_OGJQMysg",
+  apiKey: "",
   authDomain: "tasklists-a17f4.firebaseapp.com",
   projectId: "tasklists-a17f4",
   storageBucket: "tasklists-a17f4.firebasestorage.app",
